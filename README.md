@@ -17,7 +17,7 @@ Welcome to the **Daily LeetCode** repository! This repository showcases my daily
 
 ## 📬 **Contact**
 
-If you have any questions or suggestions, please open an issue or contact me at [kamble.aniket.ak47@gmail.com].
+If you have any questions or suggestions, please open an issue or contact me at kamble.aniket.ak47@gmail.com.
 
 Happy coding! 🎉
 
