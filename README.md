@@ -1,4 +1,4 @@
-# Daily LeetCode Repository
+# Daily LeetCode
 
 🌟 **Daily LeetCode** 🌟
 
