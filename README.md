@@ -27,8 +27,4 @@ Happy coding! 🎉
 
 ---
 
-<div align="center">
-    <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="GitHub Octocat" width="100">
-</div>
-
 **Keep LeetCoding! 🚀**
